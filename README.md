@@ -1,2 +1,2 @@
 # Setting--mikrotik
-tugas nenyetting mikrotik 
+tugas menyetting mikrotik 
